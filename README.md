@@ -84,17 +84,7 @@ Edges between these nodes define the flow of data and decisions, ensuring a cohe
    cd LangGraph-Function-Tool-Calling-Calculator-Project
    ```
 
-
-
-2. **Install Dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-
-
-3. **Run the Notebook**:
+2. **Run the Notebook**:
 
    Open `LangGraph_Function_Tool_Calling_Calculator_Project.ipynb` in Jupyter Notebook and execute the cells sequentially to see the calculator in action.
 
